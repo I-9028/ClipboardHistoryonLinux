@@ -1,0 +1,6 @@
+{
+    "hotkey": {
+        "modifiers": ["KEY_LEFTALT"],  
+        "key": "KEY_V"
+    }
+}

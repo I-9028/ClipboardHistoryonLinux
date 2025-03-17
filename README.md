@@ -116,3 +116,4 @@ The following tasks are yet to be undertaken:
 2. It repeatedly causes system to flicker, or mini-freeze, need to look into it.
 3. Possibly work on a clone for MacOS.
 4. Add Image Support
+5. Look into better alternatives for capturing user input than adding user to group "input"
